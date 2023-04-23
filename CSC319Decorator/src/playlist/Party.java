@@ -27,6 +27,7 @@ public  class Party extends Playlist {
                         new Track("September", "Earth, Wind & Fire", 215, "Funk"),
                         new Track("This Is What You Came For", "Calvin Harris ft. Rihanna", 222, "EDM"),
                         new Track("Shake It Off", "Taylor Swift", 219, "Pop"),
+                        new Track("I Knew You Were In Trouble", "Taylor Swift", 256, "Pop"),
                         new Track("Shut it down", "Drake", 419, "R&B"),
                         new Track("Fire & Desire", "Drake", 239, "R&B"))
         );
